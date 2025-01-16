@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Wezi-Portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/Wezi-Portfolio/static/js/main.d1caac2f.js",
+    "main.js": "/Wezi-Portfolio/static/js/main.8e5b3ba0.js",
     "static/media/hero-image.jpg": "/Wezi-Portfolio/static/media/hero-image.c2e2a49cd23cf638982a.jpg",
     "index.html": "/Wezi-Portfolio/index.html",
     "main.e6c13ad2.css.map": "/Wezi-Portfolio/static/css/main.e6c13ad2.css.map",
-    "main.d1caac2f.js.map": "/Wezi-Portfolio/static/js/main.d1caac2f.js.map"
+    "main.8e5b3ba0.js.map": "/Wezi-Portfolio/static/js/main.8e5b3ba0.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d1caac2f.js"
+    "static/js/main.8e5b3ba0.js"
   ]
 }
