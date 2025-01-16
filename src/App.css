@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: #fff;
+  color: #000;
+}
+
+.portfolio {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.section {
+  margin: 20px 0;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.content {
+  white-space: pre-wrap;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 30px;
+}
